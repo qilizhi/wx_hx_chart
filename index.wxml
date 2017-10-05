@@ -1,0 +1,3 @@
+<button bindtap="getOpenIdTap">获取openid</button>
+<view class="classname">openid:{{openid}}</view>
+<button bindtap="getToken">获取token+授权注册+加群+登陆</button>

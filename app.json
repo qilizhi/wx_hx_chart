@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "index",
+   "pages/main/main",
+   "pages/chatroom/chatroom",
+   "pages/add_new/add_new",
+   "pages/chat/chat",
+   "pages/settings/settings",
+   "pages/groups/groups",
+   "pages/friend_info/friend_info"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000000",    
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "获取openid",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
